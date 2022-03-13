@@ -1,3 +1,6 @@
+.nav-up-color{
+    background-color: #8CC63F;
+}
 .service-box {
     display: inline-block;
     text-align: center;
@@ -16,4 +19,7 @@
 }
 .wwwww{
     text-align: justify;
+}
+.ul-style li a{
+    text-decoration: none;
 }
