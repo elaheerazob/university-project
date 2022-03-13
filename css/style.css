@@ -1,4 +1,4 @@
-.nav-up-color{
+.nav-up-color ,.footer-bg-color{
     background-color: #8CC63F;
 }
 .service-box {
@@ -17,9 +17,31 @@
 .slider-style{
     margin-top: 56px;
 }
-.wwwww{
+.about-p-style{
     text-align: justify;
 }
 .ul-style li a{
     text-decoration: none;
+}
+/* main  */
+.m-h3-style ,.m-h1-style{
+    color: #7030A0;
+    /* font-weight: bolder */
+    border-bottom:2px solid green ;
+   
+
+}
+
+/* footer  */
+.f-h4-style{
+    color: #7030A0;
+    font-weight: bolder;
+    /* border-bottom:2px solid green ; */
+}
+.f-ul-style li{
+    /* list-style: none; */
+}
+.f-ul-style li a{
+    text-decoration: none;
+    color: #FFF;
 }
