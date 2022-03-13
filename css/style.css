@@ -38,9 +38,7 @@
     font-weight: bolder;
     /* border-bottom:2px solid green ; */
 }
-.f-ul-style li{
-    /* list-style: none; */
-}
+
 .f-ul-style li a{
     text-decoration: none;
     color: #FFF;
