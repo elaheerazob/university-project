@@ -1,0 +1,51 @@
+/* login page  */
+body {
+  background: #d1d8ec;
+}
+.card-color {
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+  box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+}
+.head-color {
+  color: #8cc63f;
+}
+
+.login-btn {
+  outline: 0;
+  font-size: 20px;
+  background-color: #8cc63f;
+  color: rgb(27, 17, 17);
+  border: 0px;
+  padding: 7px;
+  cursor: pointer;
+  transition: 0.3s linear;
+}
+.login-btn:hover {
+  background-color: black;
+  color: #f0f2f3;
+}
+.nav-bar {
+  text-align: right;
+  text-align: center;
+}
+.link-style {
+  text-decoration: none;
+}
+
+/* sign up  */
+
+body {
+  background: #d1d8ec;
+}
+.card-option {
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+  box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+  max-width: 90%;
+}
+
+
+
